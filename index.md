@@ -9,7 +9,7 @@ Development, though I really want to learn about all types of cutting-edge techn
 - My favorite programming language is **Java** :coffee:
 - My hometown is **San Francisco** :bridge_at_night:
 - A quote I live by: 
-> I am ready to face any challenge that is foolish enough to face me - Dwight Schrute (The Office)
+> "I am ready to face any challenge that is foolish enough to face me" - Dwight Schrute (The Office)
 - A piece of code I live by:
 ```
 while(noSuccess) {
@@ -60,4 +60,4 @@ When I was a Senior in High School, I took AP Computer Science, and while I was 
 2. Figure out what I want to pursue within the SE realm
 3. Absolutely Love my career
 
-[***Back to Top***](#welcome-to-peony-lum's-github-page!)
+[***Back to Top***](#welcome-to-peony-lums-github-page)
