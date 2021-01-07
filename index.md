@@ -9,7 +9,7 @@ Development, though I really want to learn about all types of cutting-edge techn
 - My favorite programming language is **Java** :coffee:
 - My hometown is **San Francisco** :bridge_at_night:
 - A quote I live by: 
-> "I am ready to face any challenge that is foolish enough to face me" - Dwight Schrute (The Office)
+> I am ready to face any challenge that is foolish enough to face me - Dwight Schrute (The Office)
 - A piece of code I live by:
 ```
 while(noSuccess) {
